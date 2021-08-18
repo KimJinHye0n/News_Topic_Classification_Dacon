@@ -89,7 +89,7 @@ python3 inference.py --wandb_project_name [project_name] --wandb_run_name [initi
 ├── util.py                   - Seed / Loss_function / Accuracy
 [notebook]
 ├── notebook/                 - Data Augmentation을 위한 notebook
-    └── gpt.ipynb
-    └── pororo.ipynb
+│   └── gpt.ipynb
+│   └── pororo.ipynb
 ```
 
