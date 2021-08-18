@@ -1,7 +1,5 @@
 # :newspaper: 뉴스 토픽 분류 AI 경진대회
 
----
-
 ### 주제 : 한국어 뉴스 헤드라인을 이용하여, 뉴스의 주제를 분류하는 알고리즘 개발
 
 주최 : Dacon
@@ -18,7 +16,6 @@
 
 ## :trophy: Result
 
----
 
 Public LB : 0.87031 (14등)
 
@@ -30,7 +27,6 @@ Code Sharing : [Link][https://dacon.io/competitions/official/235747/codeshare/30
 
 ## :black_large_square: Installation
 
----
 
 
 
@@ -42,8 +38,6 @@ pip install -r requirements.txt
 
 
 ## :desktop_computer: Command Line
-
----
 
 **Training**
 
@@ -79,7 +73,6 @@ python3 inference.py --wandb_project_name [project_name] --wandb_run_name [initi
 
 ## :diamond_shape_with_a_dot_inside: Directory structure
 
----
 
 ```bash
 ├── README.md                 
