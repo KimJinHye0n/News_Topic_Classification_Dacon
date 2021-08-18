@@ -2,15 +2,15 @@
 
 ### 주제 : 한국어 뉴스 헤드라인을 이용하여, 뉴스의 주제를 분류하는 알고리즘 개발
 
-주최 : Dacon
+- 주최 : Dacon
 
-기간 : 2021년 6월 30일 ~ 2021년 8월 9일
+- 기간 : 2021년 6월 30일 ~ 2021년 8월 9일
 
-평가 : Accuracy
+ - 평가 : Accuracy
 
-팀원 : 김진현, 허윤성 (Daon)
+ - 팀원 : [김진현](https://github.com/KimJinHye0n), 허윤성 (Daon)
 
-링크 : https://dacon.io/competitions/official/235747/overview/description
+ - 링크 : [대회 링크](https://dacon.io/competitions/official/235747/overview/description)
 
 
 
@@ -21,7 +21,7 @@ Public LB : 0.87031 (14등)
 
 Private LB : 0.83223 (16등)
 
-Code Sharing : [Link][https://dacon.io/competitions/official/235747/codeshare/3071?page=1&dtype=recent]
+Code Sharing : [Link](https://dacon.io/competitions/official/235747/codeshare/3071?page=1&dtype=recent)
 
 
 
