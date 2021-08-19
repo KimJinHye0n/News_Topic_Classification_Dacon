@@ -8,7 +8,7 @@
 
  - 평가 : Accuracy
 
- - 팀원 : [김진현](https://github.com/KimJinHye0n), 허윤성 (Daon)
+ - 팀원 : [김진현](https://github.com/KimJinHye0n), [허윤성](https://github.com/YoonseongHer) (Daon)
 
  - 링크 : [대회 링크](https://dacon.io/competitions/official/235747/overview/description)
 
